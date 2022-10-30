@@ -1,0 +1,6 @@
+{ "Books" :[
+    {"Title":"Statstics", "Author":"David Freedman, Robert Pisani, Roger Purves", "University":" ", "Edition":"Fourth", " Year":"2018" },
+    {"Title":"Linear Algebra and its Apllications", "Author":"Gilbert Strang", "University":"Massachusetts Institute of Technology", "Edition":"Fourth", " Year":"2021" },
+    {"Title":"Mathematical Optimization and Economic Theory", "Author":"Michael D. Intriligator", "University":"University of California", "Edition":"Eastern Economic", " Year":"2013" },
+  ]
+  }
