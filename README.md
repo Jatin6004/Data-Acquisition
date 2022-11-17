@@ -1,1 +1,1 @@
-"# Data Acquisition and management" 
+"Data Acquisition and management"
